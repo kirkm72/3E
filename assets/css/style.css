@@ -3,3 +3,49 @@ body{
     background-image: url(../images/background/wall-4-light.png);
     /*background-repeat: repeat; */
 }
+
+.about1{
+    font-family: 'Black Ops One', cursive;
+    /* font-size: 25px; */
+    color: rgb(240, 80, 80);
+}
+
+.about2{
+    font-family: 'Quantico', sans-serif;
+    color: rgb(231, 218, 37);
+}
+
+.about3{
+    font-family: 'Fjalla One', sans-serif;
+    color: rgb(130, 233, 33);
+}
+
+.about4{
+    font-family: 'Play', sans-serif;
+    color: rgb(21, 214, 240);
+}
+
+.about5{
+    font-family: 'Ubuntu Condensed', sans-serif;
+    color: rgb(238, 27, 210);
+}
+
+.about6{
+    font-family: 'Spartan', sans-serif;
+    color: rgb(29, 14, 226);
+}
+
+.about7{
+    font-family: 'Fugaz One', cursive;
+    color: rgb(58, 233, 15);
+}
+
+.about8{
+    font-family: 'Quattrocento Sans', sans-serif;
+    color: rgb(238, 146, 25);
+}
+
+.about9{
+    font-family: 'Do Hyeon', sans-serif;
+    color: rgb(161, 141, 27);
+}
