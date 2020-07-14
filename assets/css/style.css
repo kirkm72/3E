@@ -14,3 +14,17 @@ body{
     color: firebrick;
     text-align: center;
 }
+
+a[href^="mailto:"]
+{ 
+  font-family: 'Play', sans-serif;
+  color: firebrick;
+  font-size: 25px;
+  text-align: center;
+}
+
+.navbar-brand{
+  font-family: 'Play', sans-serif;
+  color: firebrick;
+  font-size: 30px;
+}
