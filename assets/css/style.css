@@ -28,3 +28,9 @@ a[href^="mailto:"]
   color: firebrick;
   font-size: 30px;
 }
+
+.navbar{
+    font-family: 'Play', sans-serif;
+    color: firebrick;
+    font-size: 20px; 
+}
