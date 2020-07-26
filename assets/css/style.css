@@ -7,11 +7,12 @@ body{
 .about{
     font-family: 'Play', sans-serif;
     color: rgb(223, 223, 8);
+    font-size: 20px;
 }
 
 .welcome{
     font-family: 'Play', sans-serif;
-    color: firebrick;
+    color: rgb(223, 223, 8);
     text-align: center;
 }
 
@@ -25,12 +26,12 @@ a[href^="mailto:"]
 
 .navbar-brand{
   font-family: 'Play', sans-serif;
-  color: firebrick;
-  font-size: 30px;
+  color:rgb(223, 223, 8);
+  font-size: 20px;
 }
 
 .navbar{
     font-family: 'Play', sans-serif;
-    color: firebrick;
+    color:rgb(223, 223, 8);
     font-size: 20px; 
 }
