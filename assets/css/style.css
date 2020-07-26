@@ -18,7 +18,7 @@ body{
 a[href^="mailto:"]
 { 
   font-family: 'Play', sans-serif;
-  color: firebrick;
+  color:rgb(223, 223, 8);
   font-size: 25px;
   text-align: center;
 }
