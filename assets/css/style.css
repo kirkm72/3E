@@ -30,8 +30,16 @@ a[href^="mailto:"]
   font-size: 18px;
   background-color: black;
 }
+
 .navbar-brand{
   font-family: 'Play', sans-serif;
+  text-align: center;
   color:rgb(223, 223, 8);
   font-size: 18px;
+}
+
+.nav-link{
+  font-family: 'Play', sans-serif;
+  color: rgb(97, 97, 42);
+  font-size: 15px;
 }
