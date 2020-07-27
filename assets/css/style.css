@@ -24,14 +24,14 @@ a[href^="mailto:"]
   text-align: center;
 }
 
+.navbar{
+  font-family: 'Play', sans-serif;
+  color:rgb(223, 223, 8);
+  font-size: 20px;
+  background-color: black;
+}
 .navbar-brand{
   font-family: 'Play', sans-serif;
   color:rgb(223, 223, 8);
   font-size: 20px;
-}
-
-.navbar{
-    font-family: 'Play', sans-serif;
-    color:rgb(223, 223, 8);
-    font-size: 20px; 
 }
