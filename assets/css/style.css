@@ -6,27 +6,27 @@ body{
 
 .about{
     font-family: 'Play', sans-serif;
-    color: rgb(223, 223, 8);
+    color: rgb(210, 180, 140);;
     font-size: 20px;
 }
 
 .welcome{
     font-family: 'Play', sans-serif;
-    color: rgb(223, 223, 8);
+    color: rgb(210, 180, 140);;
     text-align: center;
 }
 
 a[href^="mailto:"]
 { 
   font-family: 'Play', sans-serif;
-  color:rgb(223, 223, 8);
+  color:rgb(223, 223, 8);;
   font-size: 25px;
   text-align: center;
 }
 
 .navbar{
   font-family: 'Play', sans-serif;
-  color:rgb(223, 223, 8);
+  color:rgb(210, 180, 140);
   font-size: 18px;
   background-color: black;
 }
@@ -34,12 +34,12 @@ a[href^="mailto:"]
 .navbar-brand{
   font-family: 'Play', sans-serif;
   text-align: center;
-  color:rgb(223, 223, 8);
+  color:rgb(210, 180, 140);
   font-size: 18px;
 }
 
 .nav-link{
   font-family: 'Play', sans-serif;
-  color: rgb(97, 97, 42);
-  font-size: 15px;
+  color: rgb(210, 180, 140);
+  font-size: 18px;
 }
